@@ -8,6 +8,7 @@ This repository contains basic java programs
 
 [InToWords.java](https://github.com/ShoaibKakal/Java-Programs/blob/main/IntToWords.java)
 - This program converts positive integers into words.
+  User enters a number lets suppose 23 entered,
 
 
  
